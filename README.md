@@ -8,6 +8,12 @@ I'm passionate about solving complex problems with data-driven solutions and loo
 
 Tableau, Excel, Power BI, Python, and SQL to clean, analyze, and visualize data, enabling strategic decision-making.
 
+Reach me:
+uhani.f@gmail.com
+
+![image](https://github.com/user-attachments/assets/7d1a6ad6-0915-4187-a327-04a675f8aef7)
+: www.linkedin.com/in/ummehani/
+
 <!---
 UmmeHani-07/UmmeHani-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
