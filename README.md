@@ -10,7 +10,9 @@ Tableau, Excel, Power BI, Python, and SQL to clean, analyze, and visualize data,
 
 Reach me:
 uhani.f@gmail.com
+
 Cell: 469-878-5786
+
 ![image](https://github.com/user-attachments/assets/7d1a6ad6-0915-4187-a327-04a675f8aef7)
 : www.linkedin.com/in/ummehani/
 
